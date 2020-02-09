@@ -1,5 +1,5 @@
 /*
-程程序设计与算法（二）算法基础 / 第一周 枚举 / 熄灯问题 
+程序设计与算法（二）算法基础 / 第一周 枚举 / 熄灯问题 
 https://www.icourse163.org/learn/PKU-1001894005?tid=1206483202#/learn/content?type=detail&id=1211268435
 
 描述
